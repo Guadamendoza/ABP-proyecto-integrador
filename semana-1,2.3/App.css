@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.app {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  transition: all 0.3s ease;
+  padding: 2rem;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+  
+}
